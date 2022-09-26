@@ -1,4 +1,4 @@
-<h1>Make your Linux environment framework Zero Trust compliant</h1>
+<h1>Make your environment Zero Trust compliant</h1>
 
     *This document describes our team social contract for this project*
 
